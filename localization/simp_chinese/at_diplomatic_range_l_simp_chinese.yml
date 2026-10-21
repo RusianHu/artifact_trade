@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ at_diplomatic_range: "$game_concept_diplomatic_range$"
+ at_within_diplomatic_range: "在你的外交距离内"
+ at_outside_diplomatic_range: "在你的外交距离外"

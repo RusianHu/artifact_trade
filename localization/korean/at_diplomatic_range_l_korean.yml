@@ -1,0 +1,4 @@
+﻿l_korean:
+ at_diplomatic_range: "$game_concept_diplomatic_range$"
+ at_within_diplomatic_range: "Within Your Diplomatic Range"
+ at_outside_diplomatic_range: "Outside Your Diplomatic Range"
